@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Escenario3</string>
+    <string name="swContenido">Cambiar lista</string>
+    <string name="rbContenidoNombres1">Jaime</string>
+    <string name="rbContenidoNombres2">Antonio</string>
+    <string name="rbContenidoNombres3">Laura</string>
+    <string name="rbContenidoDeportes1">Tenis de mesa</string>
+    <string name="rbContenidoDeportes2">Futbol</string>
+    <string name="rbContenidoDeportes3">Baloncesto</string>
+    <string name="rbContenidoCiudades1">Sevilla</string>
+    <string name="rbContenidoCiudades2">Almeria</string>
+    <string name="rbContenidoCiudades3">Vigo</string>
+    <string name="rbContenidoRios1">Ebro</string>
+    <string name="rbContenidoRios2">Guadalquivir</string>
+    <string name="rbContenidoRios3">Guadiana</string>
+
+    <string-array name="listaND">
+        <item>Nombres</item>
+        <item>Deportes</item>
+    </string-array>
+
+    <string-array name="listaCR">
+        <item>Ciudades</item>
+        <item>Rios</item>
+    </string-array>
+</resources>
